@@ -1,0 +1,15 @@
+# directory
+openai_api_test
+
+# 隠しファイル
+.env
+
+# 一時ファイル
+output*.txt
+answer.txt
+manual_*.txt
+sample.txt
+
+# サンプル
+_*.py
+test*.py

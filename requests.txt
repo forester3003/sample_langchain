@@ -1,0 +1,9 @@
+beautifulsoup4
+dotenv
+duckduckgo-search
+langchain
+llama-index
+openai
+python-dotenv
+qdrant-client
+requests
